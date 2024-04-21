@@ -1,4 +1,10 @@
-### Hi there 👋
+## Freelance Software Engineer 🤓
+
+Since 2014, I have been working in various areas of Software Development. In 2021, I became a self-employed Freelancer in Germany. I am specialized in Backend Development, primarily using **Java, Kotlin and Spring Boot**. Refactoring, APIs and DevOps tasks are what I enjoy. Throughout my work, I have followed agile process methodologies such as Scrum and Kanban. Feel free to contact me, if you need help with CI/CD Migrations, Java version upgrades and the Containerization of your services.
+
+🌍 Happy to work on Freelance projects in **Berlin** and Remote
+
+📫 My profile website: [al-sahwi.de](https://al-sahwi.de)
 
 <!--
 **futchas/futchas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
