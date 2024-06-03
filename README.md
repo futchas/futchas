@@ -10,6 +10,8 @@ Feel free to contact me, if you need help with CI/CD Migrations, Java version up
 
 📫 My profile website: [al-sahwi.de](https://al-sahwi.de)
 
+💬 Let's also talk about nutrition, health and sport :)
+
 ## Skills
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -37,6 +39,5 @@ Feel free to contact me, if you need help with CI/CD Migrations, Java version up
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 -->
 
